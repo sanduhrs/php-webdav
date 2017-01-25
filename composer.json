@@ -1,0 +1,14 @@
+{
+    "name": "sanduhrs/webdav",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Stefan Auditor",
+            "email": "stefan.auditor@erdfisch.de"
+        }
+    ],
+    "require": {
+        "sabre/dav": "^3.2"
+    }
+}
